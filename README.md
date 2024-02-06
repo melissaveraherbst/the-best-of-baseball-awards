@@ -6,22 +6,34 @@
 
 </div>
 
+### Overview
 
 This repository contains the project files for an online course on databases, focusing on a massive baseball database. The dataset spans from 1871 to 2019 and covers various aspects of baseball, including players, teams, managers, and salaries. The primary goal of the project is to analyze the data and create queries for a fictional "The Best of Baseball" award event.
 
-**Project Structure**
+**Awards**
+
+1. "Heaviest Hitters"  
+This award goes to the team with the highest average weight of its batters on a given year.
+2. "Shortest Sluggers"  
+This award goes to the team with the smallest average height of its batters on a given year.
+3. "Biggest Spenders"  
+This award goes to the team with the largest total salary of all players in a given year.
+4. "Most bang for their Buck in 2010"  
+This award goes to the team that had the smallest “cost per win” in 2010.
+5. "Priciest Starter"  
+This award goes to the pitcher who, in a given year, cost the most money per game in which they were the starting pitcher.
+
+### Project Structure
 
 - `queries/`: Here, you will find the SQL files containing the query solutions for the award show analysis
 - `docs/`: This directory contains the following documentation:
-  -  
-  - ``: Starter Files provided by Codecademy:
+  - `Project Best of Baseball Awards.md`: A markdown file that I wrote to contain the project instructions as well as my query solutions in one single file for ease of access. 
+  - `TheBestOfBaseballAwardsStarterFiles.zip`: Starter Files provided by Codecademy
     -  **baseball_database.sql**: the database that is used in this project 
     -  **readme.txt**: contains information about the dataset
     -  **TheBestOfBaseballAwards**: project instructions
 
-**Query Categories**
-
-**Example Queries**
+### Example Queries
 
 ```sql
 -- heaviest_hitters.sql
