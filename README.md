@@ -12,7 +12,7 @@ This repository contains the project files for an online course on databases, fo
 **Project Structure**
 
 - `instructions/`: This directory contains the starter files for this project provided by Codecademy
-- `queries`: Here, you will find the SQL files containing the query solutions for the award show analysis
+- `queries/`: Here, you will find the SQL files containing the query solutions for the award show analysis
 
 **Query Categories**
 
