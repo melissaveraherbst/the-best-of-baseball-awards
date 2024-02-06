@@ -3,6 +3,7 @@
 <img src="https://github.com/melissaveraherbst/the-best-of-baseball-awards/assets/84316275/dd788272-76e7-422b-ba63-eacd9f75d207" width=100px />
 
 # The Best of BaseBall Awards
+### A Codecademy Pro Project from the Backend Engineer Career Path
 
 </div>
 
