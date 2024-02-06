@@ -34,7 +34,7 @@ This award goes to the pitcher who, in a given year, cost the most money per gam
     -  **readme.txt**: contains information about the dataset
     -  **TheBestOfBaseballAwards**: project instructions
 
-### Example Queries
+### Example Query
 
 ```sql
 -- heaviest_hitters.sql
